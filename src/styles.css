@@ -1,0 +1,16 @@
+body {
+  background: black;
+}
+
+#canvas1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 900px;
+  height: 600px;
+  background-image: url(https://st.depositphotos.com/2069093/2112/i/600/depositphotos_21121383-stock-photo-old-dirty-cobblestoned-alley.jpg);
+  background-repeat: no-repeat;
+  background-size: 900px 600px; /* new background added */
+  font-family: "Orbitron", sans-serif;
+}
